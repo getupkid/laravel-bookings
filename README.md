@@ -1,4 +1,4 @@
-# Rinvex Bookings
+# My Rinvex Bookings
 
 **Rinvex Bookings** is a generic resource booking system for Laravel, with the required tools to run your SAAS like services efficiently. It has a simple architecture, with powerful underlying to afford solid platform for your business.
 
